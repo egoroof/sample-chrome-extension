@@ -1,6 +1,6 @@
 # Sample chrome extension
 
-This is a sample chrome extension to test [a bug](https://code.google.com/p/chromium/issues/detail?id=417112).
+This is a sample chrome extension to test [a bug](https://bugs.chromium.org/p/chromium/issues/detail?id=417112).
 
 Tests [chrome.downloads.download](https://developer.chrome.com/extensions/downloads#method-download)
 method with `saveAs = false`
