@@ -7,7 +7,7 @@ method with `filename` prorepty.
 
 ## How to reproduce
 
-1. run this extension (from `filename` branch)
+Run this extension (from `filename` branch)
 
 ## What is the expected result?
 
