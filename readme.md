@@ -19,5 +19,3 @@ you didn't enable the setting.
 ## What happens instead of that?
 
 You see save file dialog.
-
-test
