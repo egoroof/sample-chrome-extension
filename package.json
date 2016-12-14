@@ -1,0 +1,19 @@
+{
+  "name": "sample-chrome-extension",
+  "version": "1.0.1",
+  "description": "Test",
+  "main": "background.js",
+  "scripts": {
+    "postversion": "git push && git push --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egoroof/sample-chrome-extension.git"
+  },
+  "author": "egoroof",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/egoroof/sample-chrome-extension/issues"
+  },
+  "homepage": "https://github.com/egoroof/sample-chrome-extension#readme"
+}
