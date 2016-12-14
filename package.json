@@ -4,7 +4,6 @@
   "description": "Test",
   "main": "background.js",
   "scripts": {
-    "postversion": "git push && git push --tags"
   },
   "repository": {
     "type": "git",
